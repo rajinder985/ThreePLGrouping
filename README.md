@@ -1,5 +1,5 @@
 # 3P Learning Assignment 
-It is Rest API created in .Net core to group the students which are adjacent to each other by horizontally, vertically or diagonally
+It is a Rest API created in .Net core to group the students which are adjacent to each other by horizontally, vertically or diagonally
 ## Input :
 It has one HTTP Post method which take input as  multi-dimensional string array. Below are the sample input of multi-dimensional array string.
 
@@ -20,10 +20,10 @@ It has one HTTP Post method which take input as  multi-dimensional string array.
  
   ## Tool, Features and design pattern Used:
  
- VS 2017
- xUnit
- Swagger UI for the API documentation.
- Dependency Injection
+ VS 2017,
+ xUnit,
+ Swagger UI for the API documentation,
+ Dependency Injection,
  Solid Principle
  
  
